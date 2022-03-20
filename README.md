@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Soumyadip-62
+- 👋 Hi, I’m Soumyadip Pandit
 - 👀 I’m interested in ...Web development
-- 🌱 I’m currently learning ...NextJS
+- 🌱 I’m currently Working at ...Think again lab as a Front end developer
 - 💞️ I’m looking to collaborate on ...React projects
 - 📫 How to reach me ...panditsoumya35@gmail.com
 - 👨‍💻 LinkedIn ...https://www.linkedin.com/in/soumyadip-pandit-8a2b881a3/
