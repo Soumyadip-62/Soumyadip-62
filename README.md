@@ -43,17 +43,20 @@ I'm a self taught full stack developer. I started coding when i was in college. 
 
   
 
-  <img align="left" alt="Soumyadip's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Soumyadip-62&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+ <div> <img align="left" alt="Soumyadip's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Soumyadip-62&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> </div>
 
-<br>
-<br>
-<br>
 
-## My top Languages :
+
+
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadip-62&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-## My top Repositories :
+## Top Respositories : 
+---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumyadip-62&repo=portfolio&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Soumyadip-62&repo=budget-tracker-frontend&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
