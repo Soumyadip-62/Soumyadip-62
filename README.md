@@ -5,8 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a self taught full stack developer. I started coding when i was in college. Then I learned **React** and got a job at Think again lab as a front end developer. While working I learned
-**NextJs**, **NodeJs**, **MongoDb**, **Express**,
+I am a self-taught full-stack developer, and I started coding when I was in college. I initially learned **React** and secured a job at Think Again Lab as a front-end developer. During my time there, I expanded my skills by learning **Next.js**, **Node.js**, **MongoDB**, and **Express**. Currently, I am working as a Web Designer at WebSkitters Technology Solutions Pvt. Ltd. since July 2023.
 
 
 ## 🔗 Links
